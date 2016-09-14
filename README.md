@@ -1,5 +1,6 @@
 ##                                               **MACHINE LEARNING PROJECTS**
 
-              This repository consists of all my __ Machine Learning Projects __ . These projects are those that I did for various courses from Coursera, Udacity and such.
+This repository consists of all my __ Machine Learning Projects __ . These projects are those that I did for various
+courses from Coursera, Udacity and such.
               
               
