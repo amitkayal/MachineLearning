@@ -1,2 +1,5 @@
-## **MACHINE LEARNING PROJECTS**
-This repository deals with all my projects with regards to machine learning. I will upload all my ipython notebooks of the projects with Machine Learning.
+##                                               **MACHINE LEARNING PROJECTS**
+
+              This repository consists of all my __ Machine Learning Projects __ . These projects are those that I did for various courses from Coursera, Udacity and such.
+              
+              
