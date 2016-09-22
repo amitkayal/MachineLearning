@@ -11,6 +11,7 @@ Machine Learning Projects using GraphLab:<br />
 3. Predicting House Prices using Logistic Regression<br />
 4. Song Recommender system<br />
 5. Image Classification using deep learning features<br />
+6. Getting started with GraphLab SFrames
 
 Machine Learning Projects using SKlearn:
 
