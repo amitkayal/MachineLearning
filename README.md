@@ -13,10 +13,10 @@ Machine Learning Projects using GraphLab:<br />
 5. Image Classification using deep learning features<br />
 6. Getting started with GraphLab SFrames
 
-Machine Learning Projects using SKlearn:
-1. Customer Segments using Unsupervised Learning
-2. Student Intervention using Supervised Learning
-3. Titanic Survival Exploration
+Machine Learning Projects using SKlearn:<br />
+1. Customer Segments using Unsupervised Learning<br />
+2. Student Intervention using Supervised Learning<br />
+3. Titanic Survival Exploration<br />
 
               
               
