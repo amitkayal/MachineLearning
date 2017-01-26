@@ -6,17 +6,18 @@ courses such Udacity Machine Learning Engineer Nanodegree and Coursera Machine L
 ### Table of Contents ( List of Projects ):
 
 Machine Learning Projects using GraphLab:<br />
-1. Similar documents retrival by computing TF-IDF<br />
-2. Analyzing Product Sentiment using GraphLab Sentiment Classifier<br />
-3. Predicting House Prices using Logistic Regression<br />
-4. Song Recommender system<br />
-5. Image Classification using deep learning features<br />
-6. Getting started with GraphLab SFrames
+*. Similar documents retrival by computing TF-IDF<br />
+*. Analyzing Product Sentiment using GraphLab Sentiment Classifier<br />
+*. Predicting House Prices using Logistic Regression<br />
+*. Song Recommender system<br />
+*. Image Classification using deep learning features<br />
+*. Getting started with GraphLab SFrames
 
 Machine Learning Projects using SKlearn:<br />
-1. Customer Segments using Unsupervised Learning<br />
-2. Student Intervention using Supervised Learning<br />
-3. Titanic Survival Exploration<br />
+*. Customer Segments using Unsupervised Learning<br />
+*. Student Intervention using Supervised Learning<br />
+*. Titanic Survival Exploration<br />
+*. Boston Housing Prices Prediction
 
               
               
